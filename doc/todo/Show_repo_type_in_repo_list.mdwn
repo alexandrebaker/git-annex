@@ -1,1 +1,0 @@
-It would be helpful to show each repo's type in the list.
