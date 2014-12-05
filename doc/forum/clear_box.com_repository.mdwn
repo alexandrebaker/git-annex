@@ -1,1 +1,0 @@
-Using webapp I cannot get rid of box.com repository, it is locked in 'cleaning out' state for more than two weeks. How can I remove the repository from the list?

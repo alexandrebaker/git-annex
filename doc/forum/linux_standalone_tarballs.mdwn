@@ -1,1 +1,0 @@
-Just saw that there is now a linux standalone tarball, I've a SL5 (RHEL5) based machine which I can churn out git-annex binaries if there is interest.

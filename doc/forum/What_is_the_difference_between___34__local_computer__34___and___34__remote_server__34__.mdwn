@@ -1,3 +1,0 @@
-What is the difference between "local computer" and "remote server" in the assistant's repository configuration menu? How does git-annex treat the targets differently? 
-
-

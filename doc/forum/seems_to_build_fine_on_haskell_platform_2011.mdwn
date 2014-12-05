@@ -1,1 +1,0 @@
-This is just a comment on git-annex building on haskell platform 2011.2.0.0 on archlinux. It just works.

@@ -1,8 +1,0 @@
-[[!comment format=mdwn
- username="http://joeyh.name/"
- ip="209.250.56.47"
- subject="comment 1"
- date="2013-11-03T00:50:48Z"
- content="""
-Run `git annex unannex` on the files.
-"""]]

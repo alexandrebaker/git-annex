@@ -1,1 +1,0 @@
-See [[/bugs/direct_mode_sync_should_avoid_git_commit/]] instead.

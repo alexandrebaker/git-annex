@@ -1,3 +1,0 @@
-I want to upload and download more than one file at a time to and from the various remotes.
-
-How do I do that?

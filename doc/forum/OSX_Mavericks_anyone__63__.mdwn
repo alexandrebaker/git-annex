@@ -1,3 +1,0 @@
-Was anyone able to run git annex on Mavericks?
-
-Didn't have time for qualified troubleshooting, sorry
