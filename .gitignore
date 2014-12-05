@@ -33,3 +33,4 @@ cabal.config
 .DS_Store
 .virthualenv
 .tasty-rerun-log
+doc/
